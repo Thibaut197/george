@@ -1,0 +1,14 @@
+[
+{
+"author" : "George",
+"name" : "Millenium",
+"keyWords" : "keyword1,keyword2",
+"version" : "1.0.0",
+"dofusVersion" : "2.47",
+"description" : "Licorne et Pomme de Terre",
+"url" : "L'URL d'hébergement du thème",
+"previewUrl" : "L'URL d'hébergement de l'image de présentation",
+"creationDate" : "17/08/2018",
+"modificationDate" : "17/08/2018"
+}
+]
